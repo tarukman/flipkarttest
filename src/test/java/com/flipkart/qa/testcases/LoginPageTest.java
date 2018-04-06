@@ -36,6 +36,7 @@ public void LoginPageTitleTest()
 public void loginTest()
 {
 	System.out.println("mangesh");
+	System.out.println("tarukhakar");
 	//welcomepage= loginpage.login(un, pwd);
   
 }
